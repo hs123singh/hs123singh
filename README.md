@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hs123 Singh</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A passionate advanced level coder interested in various technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hs123singh&label=Profile%20views&color=0e75b6&style=flat" alt="hs123singh" /> </p>
 
 - 👋 Hi, I’m @hs123singh
 - 👀 I’m interested in *Web3, Blockchain, and AI*
-- 🌱 I’m currently learning *Node.js, React, and Solidity*
-- 💞 I’m looking to collaborate on *Open Source Web3 and AI projects*
-- 📫 How to reach me *your-email@example.com*
+- 🌱 I’m currently learning *java & DSA*
+- 💞 I’m looking to collaborate on *Open Source Web3 and GfG and AI projects*
+- 📫 How to reach me *hs3478990@gmail.com*
 - 😄 Pronouns: *he/him*
-- ⚡ Fun fact: *I can solve a Rubik's Cube in under one minute*
+- ⚡ Fun fact: *I can solve anything*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*5FEJ7emIEAxZRCQF" alt="spring boot" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
