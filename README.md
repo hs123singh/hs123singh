@@ -11,10 +11,10 @@
 - 😄 Pronouns: *he/him*
 - ⚡ Fun fact: *I can solve anything*
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-id" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter-id" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu-singh-190952282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-id" height="30" width="40" /></a>
+<a href="https://x.com/Himanshu5649?t=0gXznczkNG6w84G2L5U7fA&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter-id" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
