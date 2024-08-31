@@ -13,8 +13,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/himanshu-singh-190952282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-id" height="30" width="40" /></a>
-<a href="https://x.com/Himanshu5649?t=0gXznczkNG6w84G2L5U7fA&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter-id" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu-singh-190952282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin-id" height="30" width="40" /></a>
+<a href="https://x.com/Himanshu5649?t=0gXznczkNG6w84G2L5U7fA&s=09" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1725116170~exp=1725119770~hmac=5a938303e5374597993fe9e4f6541c6ff3f5e6c8844bf9ae32d83aa2fdb34271&w=1060" alt="twitter-id" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
