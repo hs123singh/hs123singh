@@ -9,7 +9,7 @@
 - 💞 I’m looking to collaborate on *Open Source Web3 and GfG and AI projects*
 - 📫 How to reach me *hs3478990@gmail.com*
 - 😄 Pronouns: *he/him*
-- ⚡ Fun fact: *I can solve anything*
+  
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
